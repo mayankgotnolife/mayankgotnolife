@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrng1FLj/giphy.gif" width="200px">
+  
   <h2>Hi there! I'm Mayank</h2>
 </div>
 
