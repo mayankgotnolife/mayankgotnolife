@@ -106,7 +106,7 @@ I believe in:
 - **Collaboration** - Working effectively with teams
 
 ---
-* 🧠 Solving LeetCode problems daily — [DSA Challenge](https://github.com/mayankgotnolife/DSA-challenge) | 12 problems solved in Java
+* 🧠 Solving LeetCode problems daily — [DSA Challenge](https://github.com/mayankgotnolife/DSA-challenge) | 170 problems solved in Java
 
 ---
 
