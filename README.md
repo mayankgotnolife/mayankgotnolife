@@ -67,20 +67,7 @@ A collection of interactive Java games and management systems demonstrating Obje
 - **Projects:** 3 complete applications
 - **Status:** ✅ Production Ready
 
----
 
-# 📊 GitHub Statistics:
-
-### Overall Stats:
-![](https://github-readme-stats.vercel.app/api?username=mayankgotnolife&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)
-
-### Contribution Streak:
-![](https://nirzak-streak-stats.vercel.app/?user=mayankgotnolife&theme=dark&hide_border=false)
-
-### Top Languages:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankgotnolife&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
 
 # 🎯 Current Focus:
 
